@@ -1,11 +1,6 @@
-### Hi there 👋
+### 👋 Hi, I'm Abdullah Alhusaini
 
-I'm so glad you're reading this! I'm Abdullah Alhusaini, a freelance programmer with a passion for open source. Right now, I'm contributing to the Crystal community. More specifically, the Amber Framework.
-
-Crystal's tagline is "Fast as C, slick as Ruby". Amber is Ruby on Rails. But for Crystal.
-
-You can reach me via [twitter](https://twitter.com/a_a_alhusaiini) or [linkedin](https://www.linkedin.com/in/abdullah-alhusaini-9932531b4/). I love meeting new people!
-
-If you want to hire me, please fill out the contact form on my site: daarb.dev
-
-Fun fact: I am visually impaired. "But its impossible! How do you use your editor"? No. If you're curious, get in touch and I'll show you my workflow. It'll be an eye-opener!
+#### 🚀 About Me
+Winner of the [largest AI Hackathon in the MENA region](https://lablab.me/) - Built [DevAgent](https://lablab.me/event/innovating-ai-solutions/refine-ai/devagent) A tool that can quickly be trained with any data. [Here is a demo that knows Python](https://info-agent.fly.dev/chat) and [here is a version that knows the Crystal language](https://crystal-devagent.fly.dev)
+[Crystal Ambassador](https://forum.crystal-lang.org/t/adding-to-the-ambassador-introduction-series/5761) & Elixir Enthusiast - Passionate about exploring new technologies and contributing to the tech community. [More details about the ambassador program](https://forum.crystal-lang.org/t/your-chance-to-become-a-crystal-influencer/5517)
+The contribution I'm most proud of: [Added read/write replica support to Granite ORM](https://github.com/amberframework/granite/pull/476)
